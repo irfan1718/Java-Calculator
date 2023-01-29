@@ -1,2 +1,2 @@
 # Java-Calculator
-Creating Calculator Using Java
+Creating Calculator Using Java Swing
